@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "@monorepo-template/core",
+=======
+  "name": "@notes/core",
+>>>>>>> master
   "type": "module",
   "version": "0.0.0",
   "scripts": {
@@ -15,6 +19,10 @@
     "sst": "*"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "vitest": "^2"
+=======
+    "vitest": "^4.0.6"
+>>>>>>> master
   }
 }

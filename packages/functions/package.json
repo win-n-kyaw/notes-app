@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "@monorepo-template/functions",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
     "@monorepo-template/core": "*",
+=======
+  "name": "@notes/functions",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@notes/core": "*",
+>>>>>>> master
     "sst": "*"
   },
   "devDependencies": {
